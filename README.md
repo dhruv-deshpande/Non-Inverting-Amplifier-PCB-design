@@ -46,7 +46,7 @@ The board was routed with strict adherence to standard manufacturing design rule
 ## Repository Structure
 This repository is organized to separate source files from manufacturing and documentation outputs:
 
-* `/Docs`: Assembly drawings, schematic PDFs, and interactive 3D PDFs for quick review.
+* `/Docs`: Assembly drawings, schematic PDFs, and 3D layout views.
 * `/Fabrication`: Production-ready output files for fab houses, including RS-274X Gerbers, NC Drill files, and a detailed Bill of Materials (BOM).
 * `/Hardware`: The core Altium `.PrjPcb` project and raw schematic/layout source files, along with the final DRC report.
 
