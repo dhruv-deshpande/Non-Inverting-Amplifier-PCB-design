@@ -27,7 +27,6 @@ Rather than relying on default textbook values, the core schematic was rigorousl
 * **Decoupling / Bypass Capacitor:** 100nF
 * **I/O Connectors:** SMA (73251-1153)
 
-*(Optional: Drag and drop a screenshot of your SPICE simulation or Bode plot here to prove the gain mathematically).*
 
 ## PCB Specifications & Layout Constraints
 The board was routed with strict adherence to standard manufacturing design rules to ensure zero DRC (Design Rule Check) errors.
@@ -40,6 +39,9 @@ The board was routed with strict adherence to standard manufacturing design rule
 * **Power/Ground Trace Width:** 10 mil (0.254 mm)
 * **Clearance Rules:** 10 mil (0.254 mm) trace-to-trace/pad
 * **Vias:** None utilized in this specific layout iteration
+
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/ab1f144e-8f0d-4981-ac0f-085e1d55dcd3" />
+
 
 ## Repository Structure
 This repository is organized to separate source files from manufacturing and documentation outputs:
