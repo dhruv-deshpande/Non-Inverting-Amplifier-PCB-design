@@ -6,10 +6,10 @@ A complete, production-ready Altium Designer project for a non-inverting operati
 The objective of this project was to take a standard analog circuit from theoretical calculation to a fully manufacturable printed circuit board. 
 
 ### 3D Board Renders
-[Drag and drop your top 3D screenshot here]
+<img width="904" height="676" alt="image" src="https://github.com/user-attachments/assets/de03c2ad-7ecb-4238-90ed-f309aaa1a792" />
 *Top View*
 
-[Drag and drop your bottom 3D screenshot here]
+<img width="850" height="671" alt="image" src="https://github.com/user-attachments/assets/c7d7add1-d0ac-4add-a4a1-e480ccb37605" />
 *Bottom View*
 
 ## 📐 Circuit Design & Verification
